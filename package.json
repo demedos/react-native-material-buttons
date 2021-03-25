@@ -32,6 +32,6 @@
   },
 
   "scripts": {
-    "lint": "eslint src example/app.js example/index.js"
+    "lint": "eslint src"
   }
 }
